@@ -74,12 +74,12 @@ const globalStyles = css`
     line-height: 1.75;
   }
 
-  h1 {
+  ${'' /* h1 {
     font-size: 2.5rem;
     font-weight: 600;
     line-height: 1.25;
     letter-spacing: -0.89px;
-  }
+  } */}
 
   h2 {
     font-size: 2rem;
